@@ -26,12 +26,12 @@ export default function Hero() {
       </motion.div>
 
       <div className="relative z-10 text-center text-white px-6">
-        <p className="text-xs md:text-sm uppercase tracking-[0.3em] mb-4 opacity-70">1920-е годы · Советская Россия</p>
+        <p className="text-xs md:text-sm uppercase tracking-[0.3em] mb-4 opacity-70">История России · 10 класс · §18</p>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-tight">
           КУЛЬТУРА<br/>НОВОГО МИРА
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-90 leading-relaxed">
-          Как революция изменила искусство, образование и повседневную жизнь советского общества
+          Культурное пространство советского общества в 1920-е годы: ликбез, Пролеткульт, конструктивизм и рождение советского кино
         </p>
       </div>
     </div>
